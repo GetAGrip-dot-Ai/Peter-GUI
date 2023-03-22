@@ -1,0 +1,9 @@
+/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/peter_gui_package.dir
+/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/peter_gui_package_autogen_timestamp_deps.dir
+/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/peter_gui_package_autogen.dir

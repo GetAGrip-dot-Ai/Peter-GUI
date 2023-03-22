@@ -1,0 +1,17 @@
+# ninja log v5
+1134	1316	1679510958904569968	peter_gui_package	240254e985f00ba1
+1	150	1679510957740585222	/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/peter_gui_package_autogen/mocs_compilation.cpp	7df835c80f72e5f6
+150	1126	1679510958716572432	CMakeFiles/peter_gui_package.dir/main.cpp.o	22b820188c57638a
+150	1082	1679510958672573008	CMakeFiles/peter_gui_package.dir/peter_gui_package_autogen/mocs_compilation.cpp.o	8d816b81e50e1def
+1	150	1679510957740585222	peter_gui_package_autogen/timestamp	7df835c80f72e5f6
+1	150	1679510957740585222	peter_gui_package_autogen/mocs_compilation.cpp	7df835c80f72e5f6
+1	150	1679510957740585222	/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/peter_gui_package_autogen/timestamp	7df835c80f72e5f6
+151	1134	1679510958724572327	CMakeFiles/peter_gui_package.dir/petergui.cpp.o	dc751f50a7438bad
+1	106	1679511811576618078	peter_gui_package_autogen/timestamp	7df835c80f72e5f6
+1	106	1679511811576618078	peter_gui_package_autogen/mocs_compilation.cpp	7df835c80f72e5f6
+1	106	1679511811576618078	/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/peter_gui_package_autogen/timestamp	7df835c80f72e5f6
+1	106	1679511811576618078	/home/alec/peter_ws/src/build-peter_gui_package-Desktop_Qt_6_4_2_GCC_64bit-Debug/peter_gui_package_autogen/mocs_compilation.cpp	7df835c80f72e5f6
+106	1039	1679511812508604521	CMakeFiles/peter_gui_package.dir/peter_gui_package_autogen/mocs_compilation.cpp.o	8d816b81e50e1def
+107	1074	1679511812544603998	CMakeFiles/peter_gui_package.dir/main.cpp.o	22b820188c57638a
+107	1091	1679511812560603765	CMakeFiles/peter_gui_package.dir/petergui.cpp.o	dc751f50a7438bad
+1091	1275	1679511812744601089	peter_gui_package	240254e985f00ba1
